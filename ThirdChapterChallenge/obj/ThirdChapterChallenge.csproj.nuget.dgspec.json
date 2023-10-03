@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Arthur\\Desktop\\Code\\GitHub\\cs-learning\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Arthur\\Desktop\\Code\\GitHub\\cs-learning\\ThirdChapterChallenge\\ThirdChapterChallenge.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Arthur\\Desktop\\Code\\GitHub\\cs-learning\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Arthur\\Desktop\\Code\\GitHub\\cs-learning\\ThirdChapterChallenge\\ThirdChapterChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Arthur\\Desktop\\Code\\GitHub\\cs-learning\\HelloWorld\\HelloWorld.csproj",
-        "projectName": "HelloWorld",
-        "projectPath": "c:\\Users\\Arthur\\Desktop\\Code\\GitHub\\cs-learning\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Arthur\\Desktop\\Code\\GitHub\\cs-learning\\ThirdChapterChallenge\\ThirdChapterChallenge.csproj",
+        "projectName": "ThirdChapterChallenge",
+        "projectPath": "C:\\Users\\Arthur\\Desktop\\Code\\GitHub\\cs-learning\\ThirdChapterChallenge\\ThirdChapterChallenge.csproj",
         "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Arthur\\Desktop\\Code\\GitHub\\cs-learning\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Arthur\\Desktop\\Code\\GitHub\\cs-learning\\ThirdChapterChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Arthur\\AppData\\Roaming\\NuGet\\NuGet.Config"

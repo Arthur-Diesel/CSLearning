@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ENrfj0lfH7e3jisMUXVOW9t15Ue9emW/crMT3QSEHP2f99onOoxe36Di9oeCDjqGhzTGQ2+Ik1z4qylnpZ8XOQ==",
+  "dgSpecHash": "5glp7/8YLykXxGf7cGDOxbNyRPC8rc9z9Q0e+ibD2S6W709l1b9bz03HugIYk9WMSCsBzxuBTZefzvhnFPV63w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arthur\\Desktop\\Code\\GitHub\\cs-learning\\HelloWorld\\HelloWorld.csproj",
+  "projectFilePath": "c:\\Users\\Arthur\\Desktop\\Code\\GitHub\\cs-learning\\HelloWorld\\HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
