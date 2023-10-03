@@ -1,0 +1,15 @@
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapter\bin\Debug\net6.0\FourthChapter.exe
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapter\bin\Debug\net6.0\FourthChapter.deps.json
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapter\bin\Debug\net6.0\FourthChapter.runtimeconfig.json
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapter\bin\Debug\net6.0\FourthChapter.dll
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapter\bin\Debug\net6.0\FourthChapter.pdb
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapter\obj\Debug\net6.0\FourthChapter.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapter\obj\Debug\net6.0\FourthChapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapter\obj\Debug\net6.0\FourthChapter.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapter\obj\Debug\net6.0\FourthChapter.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapter\obj\Debug\net6.0\FourthChapter.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapter\obj\Debug\net6.0\FourthChapter.dll
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapter\obj\Debug\net6.0\refint\FourthChapter.dll
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapter\obj\Debug\net6.0\FourthChapter.pdb
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapter\obj\Debug\net6.0\FourthChapter.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapter\obj\Debug\net6.0\ref\FourthChapter.dll
