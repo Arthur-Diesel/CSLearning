@@ -1,0 +1,15 @@
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapterChallenge\obj\Debug\net6.0\FourthChapterChallenge.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapterChallenge\obj\Debug\net6.0\FourthChapterChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapterChallenge\obj\Debug\net6.0\FourthChapterChallenge.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapterChallenge\obj\Debug\net6.0\FourthChapterChallenge.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapterChallenge\obj\Debug\net6.0\FourthChapterChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapterChallenge\bin\Debug\net6.0\FourthChapterChallenge.exe
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapterChallenge\bin\Debug\net6.0\FourthChapterChallenge.deps.json
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapterChallenge\bin\Debug\net6.0\FourthChapterChallenge.runtimeconfig.json
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapterChallenge\bin\Debug\net6.0\FourthChapterChallenge.dll
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapterChallenge\bin\Debug\net6.0\FourthChapterChallenge.pdb
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapterChallenge\obj\Debug\net6.0\FourthChapterChallenge.dll
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapterChallenge\obj\Debug\net6.0\refint\FourthChapterChallenge.dll
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapterChallenge\obj\Debug\net6.0\FourthChapterChallenge.pdb
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapterChallenge\obj\Debug\net6.0\FourthChapterChallenge.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FourthChapterChallenge\obj\Debug\net6.0\ref\FourthChapterChallenge.dll

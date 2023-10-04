@@ -1,0 +1,15 @@
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FifthChapter\bin\Debug\net6.0\FifthChapter.exe
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FifthChapter\bin\Debug\net6.0\FifthChapter.deps.json
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FifthChapter\bin\Debug\net6.0\FifthChapter.runtimeconfig.json
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FifthChapter\bin\Debug\net6.0\FifthChapter.dll
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FifthChapter\bin\Debug\net6.0\FifthChapter.pdb
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FifthChapter\obj\Debug\net6.0\FifthChapter.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FifthChapter\obj\Debug\net6.0\FifthChapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FifthChapter\obj\Debug\net6.0\FifthChapter.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FifthChapter\obj\Debug\net6.0\FifthChapter.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FifthChapter\obj\Debug\net6.0\FifthChapter.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FifthChapter\obj\Debug\net6.0\FifthChapter.dll
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FifthChapter\obj\Debug\net6.0\refint\FifthChapter.dll
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FifthChapter\obj\Debug\net6.0\FifthChapter.pdb
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FifthChapter\obj\Debug\net6.0\FifthChapter.genruntimeconfig.cache
+C:\Users\Arthur\Desktop\Code\GitHub\cs-learning\FifthChapter\obj\Debug\net6.0\ref\FifthChapter.dll
